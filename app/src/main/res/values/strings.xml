@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Game Backlog</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_game">AddGameActivity</string>
+    <string name="title_input">Title</string>
+    <string name="platform_input">Platform</string>
+    <string name="day_input">Day</string>
+    <string name="month_input">Month</string>
+    <string name="year_input">Year</string>
+    <string name="realestData_tv">Release: %s</string>
+</resources>
